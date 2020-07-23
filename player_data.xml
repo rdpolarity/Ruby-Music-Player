@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<root>
+    <!-- <album>
+        <name>Favourites</name>
+        <genre>Rock</genre>
+        <artist>Niel Diamond</artist>
+        <cover>./Covers/favourite.png</cover>
+        <songs>
+
+        </songs>
+    </album> -->
+    <album>
+        <name>Greatest Hits</name>
+        <genre>Rock</genre>
+        <artist>Niel Diamond</artist>
+        <cover>./Covers/NielDiamond.jpg</cover>
+        <songs>
+            <song>
+                <name>Crackling Rose</name>
+                <location>Music/Cracklin_Rose.wav</location>
+            </song>
+            <song>
+                <name>Soolaimon</name>
+                <location>Music/Soolaimon.wav</location>
+            </song>
+            <song>
+                <name>Sweet Caroline</name>
+                <location>Music/Sweet_Caroline.wav</location>
+            </song>
+        </songs>
+    </album>
+
+    <album>
+        <name>Return to the sauce</name>
+        <genre>Electro</genre>
+        <artist>Infected Mushroom</artist>
+        <cover>./Covers/InfectedMushroom.jpg</cover>
+        <songs>
+            <song>
+                <name>Kipod</name>
+                <location>Music/Kipod.wav</location>
+            </song>
+            <song>
+                <name>Riders of the storm</name>
+                <location>Music/Riders_On_The_Storm.wav</location>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>The Pack</name>
+        <genre>Pop</genre>
+        <artist>SIAMES</artist>
+        <cover>./Covers/ThePack.jpg</cover>
+        <songs>
+            <song>
+                <name>The Wolf</name>
+                <location>Music/The_Wolf.wav</location>
+            </song>
+            <song>
+                <name>Mr Fear</name>
+                <location>Music/Mr_Fear.wav</location>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>Justin's Songs</name>
+        <genre>Multiple</genre>
+        <artist>DotD</artist>
+        <cover>./Covers/JustinAlbum.png</cover>
+        <songs>
+            <song>
+                <name>Guide You Home</name>
+                <location>Music/Guide_You_Home.wav</location>
+            </song>
+            <song>
+                <name>I got no Time</name>
+                <location>Music/No_Time.wav</location>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>No Path Album</name>
+        <genre>None</genre>
+        <artist>Aiden Mellor</artist>
+        <cover></cover>
+        <songs>
+            <song>
+                <name>Fake Song</name>
+                <location>No Path</location>
+            </song>
+            <song>
+                <name>Short Noise</name>
+                <location>Music/soundeffect.wav</location>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>Test Album 1</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 4</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 5</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 6</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 7</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 8</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 9</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+</root>

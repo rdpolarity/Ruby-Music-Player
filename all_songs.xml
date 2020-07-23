@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<root>
+  <song>
+    <name>Crackling Rose</name>
+    <location>Music/Cracklin_Rose.wav</location>
+    <genre>Rock</genre>
+    <artist>Niel Diamond</artist>
+  </song>
+  <song>
+    <name>Soolaimon</name>
+    <location>Music/Soolaimon.wav</location>
+    <genre>Rock</genre>
+    <artist>Niel Diamond</artist>
+  </song>
+  <song>
+    <name>Sweet Caroline</name>
+    <location>Music/Sweet_Caroline.wav</location>
+    <genre>Rock</genre>
+    <artist>Niel Diamond</artist>
+  </song>
+  <song>
+    <name>Kipod</name>
+    <location>Music/Kipod.wav</location>
+    <genre>Electro</genre>
+    <artist>Infected Mushroom</artist>
+  </song>
+  <song>
+    <name>Riders of the storm</name>
+    <location>Music/Riders_On_The_Storm.wav</location>
+    <genre>Electro</genre>
+    <artist>Infected Mushroom</artist>
+  </song>
+  <song>
+    <name>The Wolf</name>
+    <location>Music/The_Wolf.wav</location>
+    <genre>Pop</genre>
+    <artist>SIAMES</artist>
+  </song>
+  <song>
+    <name>Mr Fear</name>
+    <location>Music/Mr_Fear.wav</location>
+    <genre>Pop</genre>
+    <artist>SIAMES</artist>
+  </song>
+  <song>
+    <name>Guide You Home</name>
+    <location>Music/Guide_You_Home.wav</location>
+    <genre>Multiple</genre>
+    <artist>DotD</artist>
+  </song>
+  <song>
+    <name>I got no Time</name>
+    <location>Music/No_Time.wav</location>
+    <genre>Multiple</genre>
+    <artist>DotD</artist>
+  </song>
+  <song>
+    <name>Fake Song</name>
+    <location>No Path</location>
+    <genre>None</genre>
+    <artist>Aiden Mellor</artist>
+  </song>
+  <song>
+    <name>Short Noise</name>
+    <location>Music/soundeffect.wav</location>
+    <genre>None</genre>
+    <artist>Aiden Mellor</artist>
+  </song>
+</root>
